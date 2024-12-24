@@ -1,7 +1,7 @@
 ## 快速开始
 ### 第一步  克隆项目
 ```sh
-git clone git@github.com:veops/gin-api-template.git
+git clone https://github.com/niehengyang/ginTemp.git
 ```
 ### 第二步  修改配置
 ```sh
