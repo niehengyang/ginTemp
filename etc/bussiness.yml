@@ -1,0 +1,14 @@
+EByteConfig:
+  Logger:
+    Level: -1
+    AccessFile: ../../logs/mapi.log
+    ErrorFile: ../../logs/mapi.log
+    Encoding: console
+DEMOAPIServer:
+  Host: 0.0.0.0
+  Port: 80
+  Mode: debug
+FileServer:
+  PrefixPath: http://192.168.3.199:8803
+  RelativePath: /go/src/F_S/
+  AudioSamplePath: /go/src/F_S/Audios/  #音频文件
